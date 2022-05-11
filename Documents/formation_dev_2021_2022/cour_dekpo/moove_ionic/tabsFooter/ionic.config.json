@@ -1,0 +1,7 @@
+{
+  "name": "tabsFooter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
